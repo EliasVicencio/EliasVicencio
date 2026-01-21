@@ -9,6 +9,8 @@ Me gusta aprender y siempre estoy dispuesto a investigar nuevas tecnologías.
 #### Frameworks: Spring Framework
 #### Lenguajes de programación: Python, Java, JavaScript
 
+## Areas de interés: Desarrollo y Arquitectura de Software, API-Rest, Ciberseguridad
+
 ## Contacto
 * Linkedin: www.linkedin.com/in/elias-vicencio-3524942b1
 * Email: elias.vicencio2505@gmail.com
