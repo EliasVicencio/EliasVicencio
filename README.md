@@ -10,5 +10,5 @@ Me gusta aprender y siempre estoy dispuesto a investigar nuevas tecnologías.
 #### Lenguajes de programación: Python, Java, JavaScript
 
 ## Contacto
-* Linkedin: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BQxehtt8lTOy2f8JmzDNEEg%3D%3D
+* Linkedin: www.linkedin.com/in/elias-vicencio-3524942b1
 * Email: elias.vicencio2505@gmail.com
