@@ -7,7 +7,7 @@ Me gusta aprender y siempre estoy dispuesto a investigar nuevas tecnologías.
 ## Tecnologías manejadas
 #### Base de Datos: SQL
 #### Frameworks: Spring Framework
-#### Lenguajes de programación: Python, Java, JavaScript
+#### Lenguajes de programación: Python, Java, JavaScript, Kotlin
 
 ## Areas de interés: Desarrollo y Arquitectura de Software, API-Rest, Ciberseguridad
 
